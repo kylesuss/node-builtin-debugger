@@ -5,7 +5,7 @@ I spent a good chunk of time searching for a very basic workflow for the [built-
 ## Basic Example
 
 ```javascript
-// project/app.js
+// node-builtin-debugger/app.js
 var test = 'hi';
 debugger
 ```
@@ -14,7 +14,7 @@ If you've used tools like [Pry](http://pryrepl.org/) for Ruby, you'd expect that
 
 From the command line:
 ```
-$ cd project
+$ cd node-builtin-debugger
 $ node debug app
 ```
 
